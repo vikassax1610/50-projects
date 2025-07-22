@@ -48,4 +48,4 @@ This project collection is ideal for:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/50-beginner-projects.git
+   https://github.com/vikassax1610/50-projects
